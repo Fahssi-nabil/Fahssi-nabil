@@ -17,8 +17,8 @@ I build modern full stack applications and focus on learning real software engin
 - ⚙️ Building applications with **Next.js + Spring Boot**
 - 🌐 Interested in **building scalable web systems**
 - ☁️ Currently learning **Cloud Computing & DevOps**
-- 🤖 Exploring **AI integration in modern web apps**
-- 🧠 Passionate about **clean architecture and system design**
+- 🤖 Passionate about **AI Integration**
+- 🧠 Focused on **clean architecture and system design**
 
 ---
 
@@ -54,15 +54,12 @@ I follow a structured workflow:
 <p>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java"/>
-<img src="https://img.shields.io/badge/REST%20API-02569B?style=flat-square"/>
-<img src="https://img.shields.io/badge/JPA-Hibernate-blue?style=flat-square"/>
 <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js"/>
 <img src="https://img.shields.io/badge/Express.js-black?style=flat-square&logo=express"/>
 </p>
 
 Learning next:
 - **NestJS**
-- Advanced backend architecture
 
 ---
 
@@ -73,6 +70,22 @@ Learning next:
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql"/>
 <img src="https://img.shields.io/badge/MongoDB-13aa52?style=flat-square&logo=mongodb"/>
 </p>
+
+---
+
+## 🤖 AI Technologies
+
+<p>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai"/>
+<img src="https://img.shields.io/badge/LLMs-FF6F00?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI%20APIs-000000?style=flat-square"/>
+</p>
+
+Focus:
+- Integrating AI APIs into web applications  
+- Building intelligent features  
+- Exploring automation systems  
+- Future: AI-powered scalable applications  
 
 ---
 
@@ -109,31 +122,7 @@ Learning next:
 # 📊 GitHub Stats
 
 <p align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
 </p>
 
 ---
