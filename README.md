@@ -24,42 +24,13 @@ I build modern full stack applications and focus on learning real software engin
 
 # 🧠 Software Engineering Approach
 
-When building applications, I try to follow the **real software engineering lifecycle**:
+I follow a structured workflow:
 
-1️⃣ **Product Understanding**
-
-- Writing **PRD (Product Requirement Document)**
-- Understanding user needs
-- Defining core features
-
-2️⃣ **System Design**
-
-- Designing application architecture
-- Database schema design
-- Defining system components
-
-3️⃣ **API Design**
-
-- Designing **REST APIs**
-- Structuring **Controllers / Services / DTO**
-- Following clean backend architecture
-
-4️⃣ **Development**
-
-- Frontend with **Next.js / React**
-- Backend with **Spring Boot**
-
-5️⃣ **Testing & Improvement**
-
-- Debugging
-- Code refactoring
-- Performance improvements
-
-6️⃣ **Deployment (Learning Phase)**
-
-- Docker containers
-- CI/CD pipelines
-- Cloud infrastructure
+- 📌 Requirements → Define features & goals  
+- 🏗 Design → System architecture & database  
+- 🔌 API → RESTful structure (Controller / Service / DTO)  
+- 💻 Build → Next.js + Spring Boot  
+- 🚀 Deploy → Docker, CI/CD, Cloud (learning)
 
 ---
 
@@ -75,11 +46,6 @@ When building applications, I try to follow the **real software engineering life
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js"/>
 </p>
-
-Focus:
-- Responsive UI
-- UI / UX fundamentals
-- Component architecture
 
 ---
 
@@ -117,11 +83,6 @@ Learning next:
 <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions"/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws"/>
 </p>
-
-Goal:
-- Deploy full stack apps
-- Build CI/CD pipelines
-- Learn cloud infrastructure
 
 ---
 
