@@ -12,7 +12,7 @@ I build modern full stack applications and focus on learning real software engin
 
 # 👨‍💻 About Me
 
-- 🎓 Computer Science Graduate from Morocco
+- 🎓 Software Engineer • Recent Graduate
 - 💻 Junior **Full Stack Developer**
 - ⚙️ Building applications with **Next.js + Spring Boot**
 - 🌐 Interested in **building scalable web systems**
