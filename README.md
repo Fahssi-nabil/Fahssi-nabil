@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nabil Fahssi</h1>
 
 <h3 align="center">
-Junior Full Stack Developer | Next.js • Spring Boot • Node.js / Express • Cloud Computing • AI Integration
+ Software Engineer | Junior Full Stack Developer | Next.js • Spring Boot • Node.js / Express • Cloud Computing • AI Integration
 </h3>
 
 <p align="center">
